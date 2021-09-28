@@ -8,3 +8,4 @@ demo
 
 conflict will be there
 
+conflict line 2
